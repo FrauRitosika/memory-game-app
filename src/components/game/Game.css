@@ -1,0 +1,21 @@
+.game {
+    position: relative;
+    padding-top: 30px;
+    height: 600px;
+    color: rgba(68, 99, 129, 1);
+}
+
+.game::after {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    display: block;
+    background-image: url('/src/assets/game-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    right: 0;
+    top: 0;
+    height: 600px;
+    width: 1170px;
+    opacity: 3%;
+}

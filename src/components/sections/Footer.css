@@ -1,0 +1,22 @@
+.footer {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 55px;
+    margin-bottom: 54px;
+}
+
+.footer__social-list {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin-right: auto;
+}
+
+.footer__social-img-container {
+    width: 30px;
+}
+
+.footer__social-img {
+    width: 100%;
+    display: block;
+}

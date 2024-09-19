@@ -1,0 +1,39 @@
+.header {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 26px 55px 0 55px;
+}
+
+
+.navigation {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation__logo {
+    width: 60px;
+}
+
+.navigation__link-list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: 45px;
+    color: rgba(68, 99, 129, 1);
+}
+
+.logo {
+    width: 100%;
+}
+
+.logo__img {
+    display: block;
+}
+
+
+

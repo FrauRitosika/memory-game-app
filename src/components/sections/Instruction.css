@@ -1,0 +1,12 @@
+.instruction {
+    width: 770px;
+}
+
+.instruction-title {
+    text-align: center;
+}
+
+.instruction__title {
+    text-align: center;
+    color: rgba(68, 99, 129, 1);
+}
