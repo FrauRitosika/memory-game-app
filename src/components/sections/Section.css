@@ -1,0 +1,42 @@
+.section__container--forward {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.section__container--reverse {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 70px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.section__container-text {
+    color: black
+}
+
+.section__title {
+    margin-bottom: 30px;
+    color: rgba(68, 99, 129, 1);
+}
+
+.section__img {
+    display: block;
+}
+
+.section__tagline {
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+.tagline {
+    padding: 0;
+    color: rgba(235, 131, 130, 1);
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 60px;
+}

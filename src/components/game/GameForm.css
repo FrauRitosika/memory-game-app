@@ -1,0 +1,36 @@
+.game-form__title {
+    margin: 30px;
+    text-align: center;
+}
+
+.game-form__question {
+    margin: 0 auto 30px auto;
+}
+
+.question-card {
+    width: 570px;
+    background: rgba(251, 218, 207, 1);
+    box-shadow: 0px 20px 50px 0px rgba(132, 148, 205, 0.08);
+    padding: 36px 46px;
+    border-radius: 20px;
+    opacity: 100%;
+    color: black;
+}
+
+.question-card__text {
+    min-height: 80px;
+}
+
+.question-card__title {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.question-card__footer-container {
+    display: flex;
+    padding: 10px 50px;
+}
+
+.question-card__get-result-button {
+    margin-left: auto;
+}

@@ -1,0 +1,54 @@
+.page {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.page__header {
+    margin: 0 auto;
+    margin-bottom: 54px;
+}
+
+.page__tittle--visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.page__main {
+    margin: 0 auto;
+    padding: 0 55px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.page__section-about {
+    padding: 0 30px;
+}
+
+.page__section-rules {
+    padding: 0 120px;
+}
+
+.page__section-instruction {
+    margin: 0 auto 80px auto;
+}
+
+.page__paragraph {
+    margin: 19px 0;
+}
+
+.page__paragraph-about-container {
+    width: 530px;
+}
+
+.page__footer {
+    margin: 0 auto;
+}
+

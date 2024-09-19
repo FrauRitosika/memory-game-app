@@ -1,0 +1,12 @@
+.link-to-start {
+    display: flex;
+    width: 120px;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background: linear-gradient(94.66deg, #4499D9 17.46%, #7367BE 87.77%);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 25px;
+    box-shadow: 7px 6px 28px 1px #0000003d; 
+    text-decoration: none;
+}

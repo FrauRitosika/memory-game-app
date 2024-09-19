@@ -1,0 +1,10 @@
+.close-button {
+    display: block;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-image: url('/src/assets/icons-close.svg');
+    background-size: cover;
+    cursor: pointer;
+    margin-left: auto;
+}
